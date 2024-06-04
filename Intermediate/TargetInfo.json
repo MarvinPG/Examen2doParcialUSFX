@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Examen2doParcialUSFX",
+			"Path": "D:\\programacion\\Examen2doParcialUSFX\\Source\\Examen2doParcialUSFX.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Examen2doParcialUSFXEditor",
+			"Path": "D:\\programacion\\Examen2doParcialUSFX\\Source\\Examen2doParcialUSFXEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

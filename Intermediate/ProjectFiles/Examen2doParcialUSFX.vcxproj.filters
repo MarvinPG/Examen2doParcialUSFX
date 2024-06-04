@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Examen2doParcialUSFX.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{24C202AE-2616-48E7-BA41-8C06D3350626}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Examen2doParcialUSFX.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Examen2doParcialUSFXEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6B17759E-003E-4FBF-9D36-C76BEA447192}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Examen2doParcialUSFX">
+      <UniqueIdentifier>{F19EF0AC-DDDD-4082-BFEC-6F9B65762D8A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Examen2doParcialUSFX\Examen2doParcialUSFX.Build.cs">
+      <Filter>Source\Examen2doParcialUSFX</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Examen2doParcialUSFX\Examen2doParcialUSFX.cpp">
+      <Filter>Source\Examen2doParcialUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Examen2doParcialUSFX\Examen2doParcialUSFX.h">
+      <Filter>Source\Examen2doParcialUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Examen2doParcialUSFX\Examen2doParcialUSFXGameMode.cpp">
+      <Filter>Source\Examen2doParcialUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Examen2doParcialUSFX\Examen2doParcialUSFXGameMode.h">
+      <Filter>Source\Examen2doParcialUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Examen2doParcialUSFX\Examen2doParcialUSFXPawn.cpp">
+      <Filter>Source\Examen2doParcialUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Examen2doParcialUSFX\Examen2doParcialUSFXPawn.h">
+      <Filter>Source\Examen2doParcialUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Examen2doParcialUSFX\Examen2doParcialUSFXProjectile.cpp">
+      <Filter>Source\Examen2doParcialUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Examen2doParcialUSFX\Examen2doParcialUSFXProjectile.h">
+      <Filter>Source\Examen2doParcialUSFX</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
